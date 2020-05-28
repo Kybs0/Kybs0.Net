@@ -8,7 +8,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Kybs0.Net.Utils;
 
-namespace Kybs0.Net.Web
+namespace Kybs0.Net
 {
     public class WebFileDownloadHelper
     {

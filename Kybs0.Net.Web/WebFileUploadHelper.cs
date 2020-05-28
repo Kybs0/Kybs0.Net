@@ -8,7 +8,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Kybs0.Net.Web
+namespace Kybs0.Net
 {
     public class WebFileUploadHelper
     {

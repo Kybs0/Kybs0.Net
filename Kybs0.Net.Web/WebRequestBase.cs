@@ -11,7 +11,7 @@ using System.Windows.Input;
 using Newtonsoft.Json;
 using System.Web;
 
-namespace Kybs0.Net.Web
+namespace Kybs0.Net
 {
     public class WebRequestBase
     {

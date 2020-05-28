@@ -6,7 +6,7 @@ using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kybs0.Net.Web
+namespace Kybs0.Net
 {
     [DataContract]
     public class HttpRequest
