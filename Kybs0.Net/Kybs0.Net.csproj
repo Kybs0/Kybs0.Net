@@ -19,7 +19,7 @@
   <ItemGroup>
     <!--<PackageReference Include="Microsoft.Win32" Version="1.0.0" />-->
     <PackageReference Include="Kybs0.Net.Utils" Version="1.1.22" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="SharpZipLib" Version="1.2.0" />
     <PackageReference Include="Microsoft.Windows.Compatibility" Version="3.1.0" />
     <PackageReference Include="System.ValueTuple" Version="4.5.0" />
